@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": 1001,
+      "empId": "1234",
+      "empName": "Harshjeetss",
+      "class": "third"
+    },
+    {
+      "empId": "7895",
+      "empName": "kajaa",
+      "class": "cas",
+      "id": 1002
+    },
+    {
+      "empId": "1245",
+      "empName": " x,snxbj",
+      "class": "n x ",
+      "id": 1003
+    },
+    {
+      "empId": "1155",
+      "empName": "raju shrivastav",
+      "class": "cas",
+      "id": 1004
+    }
+  ]
+}
